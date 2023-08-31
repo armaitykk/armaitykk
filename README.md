@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @armaitykk
 - 👀 I’m interested in game and web development.
-- 🌱 I’m currently learning Java.
+- 🌱 I’m currently learning Java, JavaScript, HTML, and CSS.
 - 💞️ I’m looking to collaborate on any project.
 - 📫 How to reach me email armaity.katki@uga.edu.
 
