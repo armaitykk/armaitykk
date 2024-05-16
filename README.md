@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @armaitykk
 - 👀 I’m interested in game and web development.
-- 🌱 I’m currently learning Java, JavaScript, HTML, and CSS.
+- 🌱 I’m currently learning JavaScript, HTML, and CSS.
 - 💞️ I’m looking to collaborate on any project.
 - 🖥️ Checkout my personal website: https://armaitykk.github.io/personalCV.
 
